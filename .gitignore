@@ -1,3 +1,3 @@
-.idea/
-JerseyREST.iml/
-target/
+.idea/*
+JerseyREST.iml
+target/*
